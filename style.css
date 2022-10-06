@@ -12,6 +12,10 @@ body {
     text-align: center;
 }
 
+#canvas {
+    image-rendering: pixelated;
+}
+
 .container {
     height: 100vh;
     display: flex;
